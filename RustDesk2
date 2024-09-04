@@ -1,0 +1,7 @@
+rendezvous_server = 'helpdeskrmt.coflusa.com:21116'
+nat_type = 1
+serial = 0
+ 
+[options]
+custom-rendezvous-server = 'helpdeskrmt.coflusa.com'
+local-ip-addr = '100.80.112.231'
